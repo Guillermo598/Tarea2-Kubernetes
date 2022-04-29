@@ -20,12 +20,15 @@
 
 ### 2.1 Guestbook
 
-![Guestbook](https://github.com/Guillermo598/Tarea2-Kubernetes/tree/main/guestbook-1)
+* Funcionalidad: Añadir y visualizar nombres y mensajes en una interfaz web
+* Arquitectura 
+![](guestbook-1/img/diagram.png)
+* [Código](guestbook-1)
 
 ## 3. Deployment a containerized application on kubernetes
 
 ### 3.1 Deploying App
 
-![Video del deployment](3.1.mp4)
+* [Video del deployment](3.1.mp4)
 
 ### 3.2 Flow
