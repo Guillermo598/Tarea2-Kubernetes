@@ -1,3 +1,4 @@
+
 # Tarea2 - Kubernetes
 ## Integrantes:
 * Diego Linares y Guillermo Franco
@@ -32,3 +33,5 @@
 * [Video del deployment](3.1.mp4)
 
 ### 3.2 Flow
+
+![5](https://user-images.githubusercontent.com/33405883/166080979-c9b84329-5f34-4ec8-a755-05c52ed46685.png)
