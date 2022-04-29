@@ -22,7 +22,7 @@
 
 * Funcionalidad: Añadir y visualizar nombres y mensajes en una interfaz web
 * Arquitectura 
-![](guestbook-1/img/diagram.png)
+![](2.1.png)
 * [Código](guestbook-1)
 
 ## 3. Deployment a containerized application on kubernetes
